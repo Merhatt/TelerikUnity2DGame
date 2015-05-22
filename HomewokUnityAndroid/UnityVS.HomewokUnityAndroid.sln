@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HomewokUnityAndroid.CSharp", "UnityVS.HomewokUnityAndroid.CSharp.csproj", "{3D768913-DCFB-A839-3629-91229E1F18DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HomewokUnityAndroid.CSharp.Editor", "UnityVS.HomewokUnityAndroid.CSharp.Editor.csproj", "{46A6CE9B-D0EA-EE1F-AAE9-DBA231D6B96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D768913-DCFB-A839-3629-91229E1F18DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D768913-DCFB-A839-3629-91229E1F18DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D768913-DCFB-A839-3629-91229E1F18DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D768913-DCFB-A839-3629-91229E1F18DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A6CE9B-D0EA-EE1F-AAE9-DBA231D6B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A6CE9B-D0EA-EE1F-AAE9-DBA231D6B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A6CE9B-D0EA-EE1F-AAE9-DBA231D6B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A6CE9B-D0EA-EE1F-AAE9-DBA231D6B96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

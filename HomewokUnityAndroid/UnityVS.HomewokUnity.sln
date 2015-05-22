@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HomewokUnity.CSharp", "UnityVS.HomewokUnity.CSharp.csproj", "{44DE0599-C063-70B1-35E3-6614523455DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HomewokUnity.CSharp.Editor", "UnityVS.HomewokUnity.CSharp.Editor.csproj", "{0E1FF1BE-372F-8958-7DA9-23FD9DEB0074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DE0599-C063-70B1-35E3-6614523455DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DE0599-C063-70B1-35E3-6614523455DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DE0599-C063-70B1-35E3-6614523455DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DE0599-C063-70B1-35E3-6614523455DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1FF1BE-372F-8958-7DA9-23FD9DEB0074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1FF1BE-372F-8958-7DA9-23FD9DEB0074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1FF1BE-372F-8958-7DA9-23FD9DEB0074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1FF1BE-372F-8958-7DA9-23FD9DEB0074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2e6bbc317809dbd4783bbe4154c65d37
+timeCreated: 1431105934
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stay1
+    21300002: Stay2
+    21300004: Right1
+    21300006: Right2
+    21300008: Right3
+    21300010: Right4
+    21300012: Right5
+    21300014: Left1
+    21300016: Left2
+    21300018: Left3
+    21300020: Left4
+    21300022: Left5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stay1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 442
+        width: 18
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stay2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 372
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 302
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 302
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 302
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 231
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 162
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 162
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 162
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
